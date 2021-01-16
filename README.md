@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to FarScoutOne's Landing Page
 
 You can use the [editor on GitHub](https://github.com/FarScoutOne/landing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
